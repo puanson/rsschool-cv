@@ -139,3 +139,35 @@ main {
 .footer {
     background-color: rgba(165, 101, 101, 0.5);
 }
+
+.div-footer {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+
+.rsschool {
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+    width: 121px;
+    height: 45px;
+    background-image: url(./assets/svg/logo_rs.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .rsimg{
+      width: 100px;
+      height: 50px;
+  }
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
