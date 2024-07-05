@@ -1,8 +1,8 @@
-Александр
-123@mail.ru
-Краткая информация о себе (ваша цель и приоритет, подчеркните свои собственные стороны, расскажите о своем опыте работы, если опыт работы невозможен, расскажите о своем стремлении узнать и узнать новое)
-Навыки и обучения отсутствует
-'hello world'
-опыта 0
-образование 11 классов
-Английский язык не знаю
+@Leks Rov
+123@mail.ru tel +79990004354 discord  @hhththg
+I started learning programming. This is my first assignment to learn Html and css.
+Html, Css Js git
+console.log('Hello world')
+RS-school- stage0
+Saratov State Technical University named after Gagarin
+english A1
